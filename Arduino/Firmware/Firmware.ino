@@ -9,6 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
+#define WATERLEVELSENSOR_PIN_SIG	A3
 
 
 // =======================Pin Definitions // ===================================
